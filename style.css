@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:black;
+}
+.text-white{
+    padding-top: 120px;
+}
+.Name{
+    color: rgb(16, 130, 175);
+    font-family: 'Times New Roman', Times, serif;
+}
+.Place{
+    color:white;
+}
+
+marquee{
+    color:white;
+}
+
+.con{
+    
+    padding-left: 25px;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 16px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+   
+    color:red;
+  }
+  
